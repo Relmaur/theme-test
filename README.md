@@ -1,1 +1,0 @@
-# A Shopify theme test
